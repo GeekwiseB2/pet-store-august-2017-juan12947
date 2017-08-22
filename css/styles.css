@@ -12,3 +12,20 @@
   color: #f37972; /*base orange*/
   display: inline-block;
 }
+
+/*HERO STYLES*/
+.hero {
+  background-image: url(../img/hero.jpg);
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+  padding-top: 40px;
+}
+
+.white-text {
+  color: #FFF;
+}
+
+.hero .white-text {
+  font-size: 2em;
+}
