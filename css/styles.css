@@ -1,0 +1,14 @@
+/*FONTS*/
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+/*HEADER STYLES*/
+.logo-img {
+  width: 90px;
+  display: inline-block;
+}
+
+.logo-text {
+  font-family: 'satisfy', cursive;
+  color: #f37972; /*base orange*/
+  display: inline-block;
+}
