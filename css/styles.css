@@ -13,6 +13,12 @@
   display: inline-block;
 }
 
+.flex {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
 /*HERO STYLES*/
 .hero {
   background-image: url(../img/hero.jpg);
@@ -28,4 +34,10 @@
 
 .hero .white-text {
   font-size: 2em;
+}
+
+/*FEATURED SECTION STYLES*/
+.thumbnail {
+  padding: 8px 12px;
+  background-color: #EDF1F4; /* light grey */
 }
